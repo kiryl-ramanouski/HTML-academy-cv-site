@@ -1,1 +1,1 @@
-# my-site
+https://whitekvazar.github.io/my-site/
