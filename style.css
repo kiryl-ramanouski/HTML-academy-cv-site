@@ -275,6 +275,11 @@ body {
 }
 
 .project-image {
+  top: 0;
+  left: 0;
+  margin: 0;
+}
+
 .project-image img {
   width: 448px;
   height: 256px;
