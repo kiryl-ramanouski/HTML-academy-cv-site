@@ -1,1 +1,1 @@
-https://whitekvazar.github.io/my-site/
+https://whitekvazar.github.io/HTML-Academy-my-cv-site
